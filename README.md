@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/breatheco-de/exercise-git-collabration) 
+
 # Git Collabotarive
 
 Use this project to practice your students skills in GIT while developing a porfolio website.
